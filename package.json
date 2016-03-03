@@ -1,0 +1,25 @@
+{
+  "name": "nodebots_meetup_3-march-2016",
+  "version": "0.0.1",
+  "description": "NodeBots with Johnny5 & Arduino workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeZone/NodeBotsMeetup_20160303.git"
+  },
+  "keywords": [
+    "nodebots"
+  ],
+  "author": "Darren Douglas Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeeZone/NodeBotsMeetup_20160303/issues"
+  },
+  "homepage": "https://github.com/DeeZone/NodeBotsMeetup_20160303#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.27"
+  }
+}
