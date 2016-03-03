@@ -12,4 +12,5 @@ Perka
 - Added `johnny-five` as dependcy -> `npm install johnny-five --save`
 
 **References**
-- http://johnny-five.io/examples/
+- http://johnny-five.io/examples
+
