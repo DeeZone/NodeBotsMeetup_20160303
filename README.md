@@ -11,5 +11,9 @@ Perka
 - Created package.json -> `git init`
 - Added `johnny-five` as dependency -> `npm install johnny-five --save`
 
+**Slides**
+- http://acingraham.github.io/reveal.js/#/
+- https://dl.dropboxusercontent.com/u/3531958/nodebots-fundamentals-workshop/index.html#/
+
 **References**
 - http://johnny-five.io/examples/
